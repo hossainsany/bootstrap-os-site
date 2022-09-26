@@ -100,6 +100,10 @@ img {
   margin-top: -47px;
 }
 
+.navbar.sticky-top {
+  top: 10px;
+}
+
 .navbar .navbar-brand {
   display: none;
 }

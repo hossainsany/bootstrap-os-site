@@ -90,6 +90,9 @@ img {
 	font-weight: 500;
 	padding: 20px 25px;
 	margin-top: -47px;
+	&.sticky-top {
+		top: 10px;
+	}
 	.navbar-brand {
 		display: none;
 	}
